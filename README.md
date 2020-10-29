@@ -26,3 +26,13 @@ refresh the page, the bottom right side of the page is show up the: ‘Results f
 previous time you played this game:’, also in a table.</li>
   
 </ul>
+
+
+<h2>Technology Stack:</h2>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>jQuery</li>
+</ul>
